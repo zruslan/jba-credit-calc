@@ -1,0 +1,6 @@
+/.idea/
+*.yaml
+*.html
+tests.py
+
+/requirements.txt
